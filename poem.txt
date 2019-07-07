@@ -1,4 +1,4 @@
-the rainbow and the unicorn and the pony.
+the rainbow and the unicorn and the pony and the butterfly.
 purple
 orange 
 blue
@@ -10,3 +10,4 @@ yellow
 these are the colors of the rainbow.
 and the unicorn.
 pony.
+small, medium and large butterfly.
